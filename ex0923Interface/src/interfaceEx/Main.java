@@ -30,6 +30,7 @@ public class Main {
 		}
 
 		System.out.println("정답의 개수는 " + count + "개 입니다!");
+		System.out.println("modified modified modified");
 	}
 
 }
